@@ -21,9 +21,9 @@ photos:
   - { src: "./15.jpg", alt: "Crowds walk along a tree-lined path through a tall stone torii gate, stone lanterns on either side." }
   - { src: "./16.jpg", alt: "Moving walkways stretch down a long tunnel lit in magenta and blue toward a bright exit with a few figures." }
   - { src: "./17.jpg", alt: "A staircase cuts across a huge arched glass wall, trees visible through the windows beyond." }
-  - { src: "./18.jpg", alt: "A pale green train bound for Futsukaichi waits at a platform with red railings as passengers walk by." }
+  - { src: "./18.jpg", alt: "A red five-story pagoda with a gold spire stands among trees, partly framed by a dark pillar in the foreground." }
   - { src: "./19.jpg", alt: "A tall building painted with a black and gold mural of musicians playing brass instruments, seen from below." }
   - { src: "./20.jpg", alt: "A person crouches in silhouette inside a mirrored room filled with glowing pink and white spheres, reflected many times." }
   - { src: "./21.jpg", alt: "A tall glass-clad tower with a spire rises beside a curved glass building under a cloudy sky." }
-  - { src: "./22.jpg", alt: "A red five-story pagoda with a gold spire stands among trees, partly framed by a dark pillar in the foreground." }
+  - { src: "./22.jpg", alt: "A pale green train bound for Futsukaichi waits at a platform with red railings as passengers walk by." }
 ---

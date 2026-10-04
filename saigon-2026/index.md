@@ -15,6 +15,6 @@ photos:
   - { src: "./09.jpg", alt: "A person in a conical hat and hoodie, seen from behind, faces a dim market where shoppers pass." }
   - { src: "./10.jpg", alt: "An elderly woman in a face mask crouches on the street holding a hat and a plastic bag, scooters behind her." }
   - { src: "./11.jpg", alt: "A reflection in glass layers a person in a conical hat over a street market lane." }
-  - { src: "./12.jpg", alt: "A lone figure in a conical hat walks a dark covered market lane beneath a bright apartment block." }
-  - { src: "./13.jpg", alt: "A smiling woman holds a tape measure to a customer's back in a lit tailor's shop." }
+  - { src: "./12.jpg", alt: "A smiling woman holds a tape measure to a customer's back in a lit tailor's shop." }
+  - { src: "./13.jpg", alt: "A lone figure in a conical hat walks a dark covered market lane beneath a bright apartment block." }
 ---

@@ -21,6 +21,6 @@ photos:
   - { src: "./15.jpg", alt: "A wide waterfall pours over a rock ledge into a pool, framed by lush green foliage and ferns." }
   - { src: "./16.jpg", alt: "Water spills in white ribbons over a broad, curved rock shelf, with dense green forest behind it." }
   - { src: "./17.jpg", alt: "A man in a face mask turns skewers on a smoky street food grill, lit by a shaft of light." }
-  - { src: "./18.jpg", alt: "A multi-story temple with red and gold details sits on a misty, forested hillside, cable cars passing overhead." }
-  - { src: "./19.jpg", alt: "Rows of painted paper lanterns in red, blue and yellow glow along a dark alley wall at night." }
+  - { src: "./18.jpg", alt: "Rows of painted paper lanterns in red, blue and yellow glow along a dark alley wall at night." }
+  - { src: "./19.jpg", alt: "A multi-story temple with red and gold details sits on a misty, forested hillside, cable cars passing overhead." }
 ---

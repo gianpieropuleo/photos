@@ -15,6 +15,6 @@ photos:
   - { src: "./09.jpg", alt: "Two small food stalls glow warm yellow on an otherwise dark street at night." }
   - { src: "./10.jpg", alt: "A white scooter is parked at night in front of a tailor's window displaying suits on mannequins." }
   - { src: "./11.jpg", alt: "Reflections overlay a traditional-style house at night with the words \"NO BOOK, NO LIFE\" and a green banner." }
-  - { src: "./12.jpg", alt: "A blue truck is parked at night under a streetlamp beside a red and blue no parking sign." }
-  - { src: "./13.jpg", alt: "A quiet street at night slopes uphill past lit shops and road signs under a single streetlight." }
+  - { src: "./12.jpg", alt: "A quiet street at night slopes uphill past lit shops and road signs under a single streetlight." }
+  - { src: "./13.jpg", alt: "A blue truck is parked at night under a streetlamp beside a red and blue no parking sign." }
 ---
